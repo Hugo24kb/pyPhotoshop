@@ -1,5 +1,5 @@
 # pyPhotoshop
-pyPhotoshop is a tool to access different opencv functions through web ui for profile pictures creation
+pyPhotoshop is a tool to access different opencv functions through web ui for stylish pictures creation
 
 ## Functions
 1. Cartoonify
